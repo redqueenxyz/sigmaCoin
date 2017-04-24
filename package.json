@@ -1,0 +1,26 @@
+{
+  "name": "allcoins",
+  "version": "0.0.1",
+  "description": "A blockchain experiment.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "firebase": "^3.8.0",
+    "http": "0.0.0",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {}ma,
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redqueenxyz/allCoins.git"
+  },
+  "author": "redqueen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redqueenxyz/allCoins/issues"
+  },
+  "homepage": "https://github.com/redqueenxyz/allCoins#readme"
+}
