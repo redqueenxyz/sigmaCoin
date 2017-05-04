@@ -1,4 +1,4 @@
 /node_modules
 /.ipynb_checkpoints
-/.DS_Store
-/.vscode
+.DS_Store
+.ipynb_checkpoints/
