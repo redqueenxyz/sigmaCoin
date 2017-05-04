@@ -1,5 +1,5 @@
-/node_modules
-/.ipynb_checkpoints
-.DS_Store
+node_modules/
+.ipynb_checkpoints
 .ipynb_checkpoints/
-.ini
+*.DS_Store
+*.ini
